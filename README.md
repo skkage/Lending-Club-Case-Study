@@ -1,6 +1,13 @@
 # Lending Club Case Study
 > Outline a brief description of your project.
-The data given below contains information about past loan applicants and whether they ‘defaulted’ or not. The aim is to identify patterns which indicate if a person is likely to default, which may be used for taking actions such as denying the loan, reducing the amount of loan, lending (to risky applicants) at a higher interest rate, etc.
+In this case study, a lending Club firm which specializes in giving or facilitating Loans between two parties use Exploratory Data Analysis to solve their problem and take correct business decision, majorly:
+Is a certain likely to pay back the Loan and not get Charged off, and should their Loan REquest be Approved or Rejected
+This is a risk since:
+**If the applicant is likely to repay the loan, then not approving the loan results in a loss of business to the company
+**If the applicant is not likely to repay the loan, i.e. he/she is likely to default, then approving the loan may lead to a financial loss for the company
+Business Objective
+The main Goal is to identify Risky Loan applicants based on the historical data. This requires identifying strong indicators from the data and plotting useful and accurate graph types to analyze and draw beneficial inferences towards our Business Decision
+
 
 ## Table of Contents
 * [General Info](#general-information)
