@@ -52,13 +52,15 @@ The main Goal is to identify Risky Loan applicants based on the historical data.
 
 2. Looks like employees with more than 10 years of experience are likely to have more loan defaults compared to others.
 
-3. Loan applications having anual income between 25K to 50K are likely to have more loan defaults compared to others. 5. Loan applications who dont own a house are more likely to default a loan.
+3. Loan applications having anual income between 25K to 50K are likely to have more loan defaults compared to others. 
 
-4. Loan applications who are taking loan for the purpose of debt consolidation are more likely to default the loan.
+4. Loan applications who dont own a house are more likely to default a loan.
 
-5. Loan applications from CA address are more  likely to default the loan.
+5. Loan applications who are taking loan for the purpose of debt consolidation are more likely to default the loan.
 
-6. Loan applications having the interest rate between M (Medium- 9 to 13) and MH (medium high - 13 to 17) are more  likely to default the loan.
+6. Loan applications from CA address are more  likely to default the loan.
+
+7. Loan applications having the interest rate between M (Medium- 9 to 13) and MH (medium high - 13 to 17) are more  likely to default the loan.
 
 ### - Conclusions from Multi Variate Analysis
 
