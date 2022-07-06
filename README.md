@@ -19,7 +19,7 @@ The data given below contains information about past loan applicants and whether
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusions from Univariate analysis
+### - Conclusions from Univariate analysis
 
 #### 1. There are 85% fully paid applicants.
 #### 2. Around 75% of loan applicants prefer 36 months of loan term.
@@ -37,7 +37,7 @@ The data given below contains information about past loan applicants and whether
 #### 14. There is a significant growth in people using the lending club to borrow loans and the nos have grown from near 0 to 20000 loans being provided from 2007 to  2011 year showing the prospects of company growing
 
 
-- Conclusion 2 from Bivariate Analysis
+### - Conclusion 2 from Bivariate Analysis
 
 #### 1.Loan applicants with the grade B5 have the highest no of charged off accounts followed by B3 and B4 in grade B. Followed by grade C - C1 and C2
 #### 2. So in general people who are provided loans graded B and C have high probablitiy of defaulting the loan.
@@ -48,7 +48,7 @@ The data given below contains information about past loan applicants and whether
 #### 7. Loan applications from CA address are more  likely to default the loan
 #### 8. Loan applications having the interest rate between M and MH are more  likely to default the loan
 
-- Conclusion 3 from Multi Variate Analysis
+### - Conclusion 3 from Multi Variate Analysis
 
 With respect to loan_status which is the target - dti has got the highest correlation with loan status. I.e if the debt to income increases the loan applicant tends to default the loan as he has more debt to be repaid than his income 
 
