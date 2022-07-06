@@ -21,32 +21,31 @@ The data given below contains information about past loan applicants and whether
 ## Conclusions
 ### - Conclusions from Univariate analysis
 
-#### 1. There are 85% fully paid applicants.
-#### 2. Around 75% of loan applicants prefer 36 months of loan term.
-#### 3. Applicants are mostly categorized on grade B (B3 major subgrade) followed by grade A (A4 major subgrade) based on the base rate and risk.
-#### 4. The major loan applicants are from employees who have more than 10 years of exp.
-#### 5. People who rent/ mortgage out the homes are the major applicants. The applicants who are home owners are least.
-#### 6. Most of the applicants are not verified.
-#### 7. Applicants usually take loans for debt consolidation.
-#### 8. Most of the applications are from CA address.
-#### 9. Around 4.2 percent of users have atleast 1 bank bankruptcies cases registered against them.
-#### 10. Applicants are mostly looking for loans between 5K to 10K. On an avg we see the loan applicants looking for loan amount from 500 to 25K
-#### 11. Most of the loans have an interest rate of Medium followed by medium high and low. There are very minimal loans given to users which very high interest rate.
-#### 12. Most of the loan applicants have an annual income of 25K to 50K followed by 50K to 75K range.
-#### 13. Most of the loan as issued in the month of Dec - probably the year end people want to pay/close their debts.
-#### 14. There is a significant growth in people using the lending club to borrow loans and the nos have grown from near 0 to 20000 loans being provided from 2007 to  2011 year showing the prospects of company growing
+1. There are 85% fully paid applicants.
+2. Around 75% of loan applicants prefer 36 months of loan term.
+3. Applicants are mostly categorized on grade B (B3 major subgrade) followed by grade A (A4 major subgrade) based on the base rate and risk.
+4. The major loan applicants are from employees who have more than 10 years of exp.
+5. People who rent/ mortgage out the homes are the major applicants. The applicants who are home owners are least.
+6. Most of the applicants are not verified.
+7. Applicants usually take loans for debt consolidation.
+8. Most of the applications are from CA address.
+9. Around 4.2 percent of users have atleast 1 bank bankruptcies cases registered against them.
+10. Applicants are mostly looking for loans between 5K to 10K. On an avg we see the loan applicants looking for loan amount from 500 to 25K
+11. Most of the loans have an interest rate of Medium followed by medium high and low. There are very minimal loans given to users which very high interest rate.
+12. Most of the loan applicants have an annual income of 25K to 50K followed by 50K to 75K range.
+13. Most of the loan as issued in the month of Dec - probably the year end people want to pay/close their debts.
+14. There is a significant growth in people using the lending club to borrow loans and the nos have grown from near 0 to 20000 loans being provided from 2007 to  2011 year showing the prospects of company growing
 
 
 ### - Conclusion 2 from Bivariate Analysis
 
-#### 1.Loan applicants with the grade B5 have the highest no of charged off accounts followed by B3 and B4 in grade B. Followed by grade C - C1 and C2
-#### 2. So in general people who are provided loans graded B and C have high probablitiy of defaulting the loan.
-#### 3. Looks like employees with more than 10 years of experience are likely to have more loan defaults compared to others.
-#### 4. Loan applications having anual income between 25K to 50K are likely to have more loan defaults compared to others.
-#### 5. Loan applications who dont own a house are more likely to default a loan.
-#### 6. Loan applications who are taking loan for the purpose of debt consolidation are more likely to default the loan
-#### 7. Loan applications from CA address are more  likely to default the loan
-#### 8. Loan applications having the interest rate between M and MH are more  likely to default the loan
+1.Loan applicants with the grade B5 have the highest no of charged off accounts followed by B3 and B4 in grade B. Followed by grade C - C1 and C2
+2. So in general people who are provided loans graded B and C have high probablitiy of defaulting the loan.
+3. Looks like employees with more than 10 years of experience are likely to have more loan defaults compared to others.
+4. Loan applications having anual income between 25K to 50K are likely to have more loan defaults compared to others. 5. Loan applications who dont own a house are more likely to default a loan.
+5. Loan applications who are taking loan for the purpose of debt consolidation are more likely to default the loan
+6. Loan applications from CA address are more  likely to default the loan
+7. Loan applications having the interest rate between M and MH are more  likely to default the loan
 
 ### - Conclusion 3 from Multi Variate Analysis
 
