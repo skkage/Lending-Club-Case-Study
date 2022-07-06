@@ -30,7 +30,7 @@ The data given below contains information about past loan applicants and whether
 7. Applicants usually take loans for debt consolidation.
 8. Most of the applications are from CA address.
 9. Around 4.2 percent of users have atleast 1 bank bankruptcies cases registered against them.
-10. Applicants are mostly looking for loans between 5K to 10K. On an avg we see the loan applicants looking for loan amount from 500 to 25K
+10. Applicants are mostly looking for loans between 5K to 10K.
 11. Most of the loans have an interest rate of Medium followed by medium high and low. There are very minimal loans given to users which very high interest rate.
 12. Most of the loan applicants have an annual income of 25K to 50K followed by 50K to 75K range.
 13. Most of the loan as issued in the month of Dec - probably the year end people want to pay/close their debts.
@@ -39,19 +39,17 @@ The data given below contains information about past loan applicants and whether
 
 ### - Conclusions from Bivariate Analysis
 
-1.Loan applicants with the grade B5 have the highest no of charged off accounts followed by B3 and B4 in grade B. Followed by grade C - C1 and C2.
+1. In general people who are provided loans graded B (with subgrade B5 max defaults) and C (subgrade C1) have high probablitiy of defaulting the loan.
 
-2. So in general people who are provided loans graded B and C have high probablitiy of defaulting the loan.
+2. Looks like employees with more than 10 years of experience are likely to have more loan defaults compared to others.
 
-3. Looks like employees with more than 10 years of experience are likely to have more loan defaults compared to others.
+3. Loan applications having anual income between 25K to 50K are likely to have more loan defaults compared to others. 5. Loan applications who dont own a house are more likely to default a loan.
 
-4. Loan applications having anual income between 25K to 50K are likely to have more loan defaults compared to others. 5. Loan applications who dont own a house are more likely to default a loan.
+4. Loan applications who are taking loan for the purpose of debt consolidation are more likely to default the loan.
 
-5. Loan applications who are taking loan for the purpose of debt consolidation are more likely to default the loan.
+5. Loan applications from CA address are more  likely to default the loan.
 
-6. Loan applications from CA address are more  likely to default the loan.
-
-7. Loan applications having the interest rate between M and MH are more  likely to default the loan.
+6. Loan applications having the interest rate between M (Medium- 9 to 13) and MH (medium high - 13 to 17) are more  likely to default the loan.
 
 ### - Conclusions from Multi Variate Analysis
 
@@ -75,12 +73,5 @@ With respect to loan_status which is the target - dti has got the highest correl
 
 
 ## Contact
-Created by [@skkage] - feel free to contact me!
+Created by [@skkage,@rawatdeepesh] - feel free to contact us!
 
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project --># Lending-Club-Case-Study
-# Lending-Club-Case-Study-
