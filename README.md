@@ -8,6 +8,8 @@ This is a risk since:
 Business Objective
 The main Goal is to identify Risky Loan applicants based on the historical data. This requires identifying strong indicators from the data and plotting useful and accurate graph types to analyze and draw beneficial inferences towards our Business Decision
 
+<img width="506" alt="Screenshot 2022-07-06 at 9 44 23 PM" src="https://user-images.githubusercontent.com/108140522/177596507-ac490684-7452-4e93-8831-8d4ea5def753.png">
+
 
 ## Table of Contents
 * [General Info](#general-information)
