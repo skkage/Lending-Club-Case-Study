@@ -40,11 +40,17 @@ The data given below contains information about past loan applicants and whether
 ### - Conclusions from Bivariate Analysis
 
 1.Loan applicants with the grade B5 have the highest no of charged off accounts followed by B3 and B4 in grade B. Followed by grade C - C1 and C2.
+
 2. So in general people who are provided loans graded B and C have high probablitiy of defaulting the loan.
+
 3. Looks like employees with more than 10 years of experience are likely to have more loan defaults compared to others.
+
 4. Loan applications having anual income between 25K to 50K are likely to have more loan defaults compared to others. 5. Loan applications who dont own a house are more likely to default a loan.
+
 5. Loan applications who are taking loan for the purpose of debt consolidation are more likely to default the loan.
+
 6. Loan applications from CA address are more  likely to default the loan.
+
 7. Loan applications having the interest rate between M and MH are more  likely to default the loan.
 
 ### - Conclusions from Multi Variate Analysis
